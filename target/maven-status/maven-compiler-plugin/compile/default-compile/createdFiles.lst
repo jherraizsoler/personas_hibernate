@@ -1,0 +1,3 @@
+dao\PersonaDAO.class
+test\OperacionesHibernateJPA.class
+modelo\Persona.class
